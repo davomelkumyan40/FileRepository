@@ -1,0 +1,7 @@
+C:\Users\davom\source\repos\AngirRepository\AngirRepository\obj\Debug\AngirRepository.csprojAssemblyReference.cache
+C:\Users\davom\source\repos\AngirRepository\AngirRepository\obj\Debug\AngirRepository.csproj.CoreCompileInputs.cache
+C:\Users\davom\source\repos\AngirRepository\AngirRepository\bin\Debug\AngirRepository.exe.config
+C:\Users\davom\source\repos\AngirRepository\AngirRepository\bin\Debug\AngirRepository.exe
+C:\Users\davom\source\repos\AngirRepository\AngirRepository\bin\Debug\AngirRepository.pdb
+C:\Users\davom\source\repos\AngirRepository\AngirRepository\obj\Debug\AngirRepository.exe
+C:\Users\davom\source\repos\AngirRepository\AngirRepository\obj\Debug\AngirRepository.pdb
